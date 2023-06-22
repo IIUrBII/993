@@ -4,4 +4,3 @@ if a[::-1] == a:
 else:
     print(False)
 
-print("хуй")
